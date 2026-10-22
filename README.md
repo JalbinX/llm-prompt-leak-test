@@ -34,3 +34,4 @@ Even when a model protects the main secret, small pieces of information can stil
 - Try more methods and compare across models
 
 ## Screenshots
+Full chat transcript: [full-chat.pdf](full-chat.pdf)
