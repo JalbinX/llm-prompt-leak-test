@@ -35,3 +35,4 @@ Even when a model protects the main secret, small pieces of information can stil
 
 ## Screenshots
 Full chat transcript: [full-chat.pdf](full-chat.pdf)
+Live chat link: (https://chatgpt.com/share/6ad9844e-9678-83ea-9a53-acf2c0874712)
